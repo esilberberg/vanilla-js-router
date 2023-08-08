@@ -1,5 +1,3 @@
-// Requires to modify htaccess file to make sure index.html is the main file for the server
-
 const urlPageTitle = "Routing Tutorial";
 
 document.addEventListener("click", (e)=> {
